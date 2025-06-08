@@ -19,10 +19,6 @@ This project tracks and analyzes the motion of a physical pendulum using a BNO05
 (Add a link here if you host anything on GitHub Pages or have sample plots.)
 
 ## 📁 Files
-- `arduino_code/`: BNO055 setup and serial communication
-- `data/`: Sample CSV sensor logs
-- `analyzer.py`: Python script for graphing and analysis
-- `README.md`: This file
 
 ## 📚 Background
 This project was developed to understand real-world oscillatory motion and damping behavior, beyond theoretical equations. It connects physical principles to measurable data and offers hands-on experience with sensor integration and data modeling.
